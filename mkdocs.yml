@@ -4,6 +4,7 @@ site_name: nlp-project-with-dvc
 nav:
   - Home: index.md
   - Data-prep-stage: data_prep.md
+  - Featurization: featurization.md
 
 site_author: Sushanth bongaram
 site_description: >-
