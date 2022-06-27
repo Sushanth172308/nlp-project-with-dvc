@@ -5,6 +5,8 @@ nav:
   - Home: index.md
   - Data-prep-stage: data_prep.md
   - Featurization: featurization.md
+  - Train:train.md
+  - Evaluating-stage:evaluate.md
 
 site_author: Sushanth bongaram
 site_description: >-

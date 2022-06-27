@@ -1,4 +1,5 @@
 # It contains all the configs required in the project
+
 artifacts:
   ARTIFACTS_DIR: artifacts
   PREPARED_DATA: prepared
